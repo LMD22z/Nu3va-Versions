@@ -1,0 +1,39 @@
+{
+  "multichar": {
+    "name": "Nu3va_multiChar",
+    "version": "1.4.5",
+    "portal": "https://portal.cfx.re/assets",
+    "changelog": [
+      "Preview behavior cleanup fix",
+      "Job-based multichar animations and sequences",
+      "Qbox lifecycle and Native Appearance fixes"
+    ]
+  },
+  "spawn": {
+    "name": "Nu3va_spawN",
+    "version": "1.2.0",
+    "portal": "https://portal.cfx.re/assets",
+    "changelog": [
+      "Nu3va spawn selector",
+      "Character-flow guard integration"
+    ]
+  },
+  "novahud": {
+    "name": "Nu3va_novaHud",
+    "version": null,
+    "portal": "https://portal.cfx.re/assets",
+    "changelog": []
+  },
+  "keys": {
+    "name": "Nu3va_keys",
+    "version": null,
+    "portal": "https://portal.cfx.re/assets",
+    "changelog": []
+  },
+  "admin": {
+    "name": "Nu3va_admin",
+    "version": null,
+    "portal": "https://portal.cfx.re/assets",
+    "changelog": []
+  }
+}
