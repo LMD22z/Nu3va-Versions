@@ -1,5 +1,0 @@
-{
-  "version": "1.4.6",
-  "portal": "https://portal.cfx.re/assets",
-  "changelog": "Fixed preview animation cleanup; improved job animations; improved Native Appearance stability; minor performance improvements."
-}
