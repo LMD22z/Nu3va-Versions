@@ -1,7 +1,7 @@
 {
   "multichar": {
     "name": "Nu3va_multiChar",
-    "version": "1.4.5",
+    "version": "1.4.6",
     "portal": "https://portal.cfx.re/assets",
     "changelog": [
       "Preview behavior cleanup fix",
