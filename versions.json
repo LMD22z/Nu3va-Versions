@@ -4,9 +4,9 @@
     "version": "1.4.6",
     "portal": "https://portal.cfx.re/assets",
     "changelog": [
-      "Preview behavior cleanup fix",
-      "Job-based multichar animations and sequences",
-      "Qbox lifecycle and Native Appearance fixes"
+      "Updated multichar release",
+      "Improved update checker integration",
+      "Minor fixes and improvements"
     ]
   },
 
