@@ -20,20 +20,46 @@
   },
   "novahud": {
     "name": "Nu3va_novaHud",
-    "version": null,
+    "version": 11.0.3,
     "portal": "https://portal.cfx.re/assets",
     "changelog": []
   },
   "keys": {
     "name": "Nu3va_keys",
-    "version": null,
+    "version": 1.2.1,
     "portal": "https://portal.cfx.re/assets",
     "changelog": []
   },
   "admin": {
     "name": "Nu3va_admin",
-    "version": null,
+    "version": 2.1.1,
     "portal": "https://portal.cfx.re/assets",
     "changelog": []
-  }
+  },
+  "pause": {
+    "name": "Nu3va_PauseMenu",
+    "version": 1.13.1,
+    "portal": "https://portal.cfx.re/assets",
+    "changelog": []
+  },
+  "garage": {
+  "name": "Nu3va_garage",
+  "version": "1.0.0",
+  "portal": "https://portal.cfx.re/assets",
+  "changelog": [
+    "Initial release"
+  ],
+  "lib": {
+    "name": "Nu3va_lib",
+    "version": 2.0.0-beta,
+    "portal": "https://portal.cfx.re/assets",
+    "changelog": []
+  },
+  "heistPack": {
+    "name": "Nu3va_heistPack",
+    "version": 2.0.0-beta,
+    "portal": "https://portal.cfx.re/assets",
+    "changelog": []
+  },  
+    
 }
