@@ -74,6 +74,7 @@
     "name": "Nu3va_propStudio",
     "version": "2.2.0",
     "portal": "https://portal.cfx.re/assets",
-    "changelog": [Fix UI]
+    "changelog": [
+      Fix UI]
   }
 }
