@@ -69,5 +69,11 @@
     "version": "2.0.0-beta",
     "portal": "https://portal.cfx.re/assets",
     "changelog": []
+  },
+   "propstudio": {
+    "name": "Nu3va_propStudio",
+    "version": "2.2.0",
+    "portal": "https://portal.cfx.re/assets",
+    "changelog": [Fix UI]
   }
 }
